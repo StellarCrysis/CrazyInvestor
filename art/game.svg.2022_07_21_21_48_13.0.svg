@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="game.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88"
+     inkscape:cx="-322.39848"
+     inkscape:cy="528.29385"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#144866;fill-opacity:1;stroke:none;stroke-width:1.83223271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="270.93332"
+       height="152.39999"
+       x="-204.86313"
+       y="86.391663" />
+    <circle
+       style="opacity:1;fill:#144866;fill-opacity:1;stroke:#000000;stroke-width:11.33858299;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="path938"
+       cx="-194.97987"
+       cy="231.00449"
+       r="18.79143" />
+    <rect
+       style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect836"
+       width="167.47984"
+       height="42.994793"
+       x="-106.68368"
+       y="91.045921" />
+    <rect
+       y="140.35463"
+       x="-107.03598"
+       height="42.994793"
+       width="167.83214"
+       id="rect838"
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:4.65969086;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:4.65969086;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect840"
+       width="167.83214"
+       height="42.994793"
+       x="-106.68366"
+       y="188.76135" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.18333334"
+       d="m -106.68368,91.04592 43.119308,43.1193"
+       id="path915"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-97.715431"
+       y="114.79831"
+       id="text844"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="-97.715431"
+         y="114.79831"
+         style="stroke-width:0.26458332;fill:#000000;">Депозиты</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-99.634743"
+       y="164.58878"
+       id="text844-3"><tspan
+         sodipodi:role="line"
+         id="tspan842-6"
+         x="-99.634743"
+         y="164.58878"
+         style="stroke-width:0.26458332">Облигации</tspan></text>
+    <text
+       id="text866"
+       y="212.9955"
+       x="-100.23608"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="212.9955"
+         x="-100.23608"
+         id="tspan864"
+         sodipodi:role="line">Акции</tspan></text>
+    <text
+       id="text870"
+       y="139.67526"
+       x="-196.11226"
+       style="font-style:normal;font-weight:normal;font-size:6.33672857px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15841821"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.15841821"
+         y="139.67526"
+         x="-196.11226"
+         id="tspan868"
+         sodipodi:role="line">Наличные: 1000 Р</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5573771;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333334"
+       id="path872"
+       cx="-192.72491"
+       cy="227.54684"
+       r="7.817235" />
+    <path
+       style="opacity:1;fill:#144866;fill-opacity:1;stroke:none;stroke-width:2.08022475;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -195.71385,222.48866 8.50699,5.28813 v 0 l -8.50699,5.05821 z"
+       id="rect874"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g936"
+       transform="translate(-0.90198864,1.8039773)">
+      <rect
+         ry="2.2572844"
+         y="98.897858"
+         x="-198.73816"
+         height="5.6432104"
+         width="84.486259"
+         id="rect881"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.41705179;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="1.3543706"
+         y="100.25223"
+         x="-197.21585"
+         height="2.7087412"
+         width="6.0892501"
+         id="rect883"
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect885"
+         width="6.0892501"
+         height="2.7087412"
+         x="-190.61916"
+         y="100.25223"
+         ry="1.3543706" />
+      <rect
+         ry="1.3543706"
+         y="100.25223"
+         x="-184.02248"
+         height="2.7087412"
+         width="6.0892501"
+         id="rect887"
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect889"
+         width="6.0892501"
+         height="2.7087412"
+         x="-177.08749"
+         y="100.25223"
+         ry="1.3543706" />
+      <rect
+         ry="1.3543706"
+         y="100.25223"
+         x="-170.32167"
+         height="2.7087412"
+         width="6.0892501"
+         id="rect891"
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect893"
+         width="6.0892501"
+         height="2.7087412"
+         x="-163.38669"
+         y="100.25223"
+         ry="1.3543706" />
+      <rect
+         ry="1.3543706"
+         y="100.25223"
+         x="-156.62085"
+         height="2.7087412"
+         width="6.0892501"
+         id="rect895"
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect897"
+         width="6.0892501"
+         height="2.7087412"
+         x="-150.19331"
+         y="100.25223"
+         ry="1.3543706" />
+      <rect
+         ry="1.3543706"
+         y="100.25223"
+         x="-143.43442"
+         height="2.7087412"
+         width="6.0892501"
+         id="rect899"
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect901"
+         width="6.0892501"
+         height="2.7087412"
+         x="-136.45021"
+         y="100.25223"
+         ry="1.3543706" />
+      <rect
+         ry="1.3543706"
+         y="100.25223"
+         x="-129.24072"
+         height="2.7087412"
+         width="6.0892501"
+         id="rect903"
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:1.94968855;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect905"
+         width="6.0892501"
+         height="2.7087412"
+         x="-121.80593"
+         y="100.25223"
+         ry="1.3543706" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.03537083px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20088427"
+       x="-199.5614"
+       y="96.964516"
+       id="text909"><tspan
+         sodipodi:role="line"
+         id="tspan907"
+         x="-199.5614"
+         y="96.964516"
+         style="fill:#ffffff;stroke-width:0.20088427">1 из 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.33672857px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15841821"
+       x="-196.11226"
+       y="148.09383"
+       id="text913"><tspan
+         sodipodi:role="line"
+         id="tspan911"
+         x="-196.11226"
+         y="148.09383"
+         style="fill:#ffffff;stroke-width:0.15841821">Доход: 1,234,000 Р</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path917"
+       d="m -102.4744,91.04592 43.119308,43.1193"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.18333334" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.18333334"
+       d="m -98.26512,91.04592 43.119308,43.1193"
+       id="path919"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path921"
+       d="m -93.755177,91.04592 43.119308,43.1193"
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.18333334" />
+    <rect
+       y="86.391663"
+       x="-204.86313"
+       height="152.39999"
+       width="270.93332"
+       id="rect942"
+       style="opacity:1;fill:#144866;fill-opacity:1;stroke:none;stroke-width:1.83223271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

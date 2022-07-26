@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="game.svg">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles"
+       id="pattern1840"
+       patternTransform="matrix(10,0,0,10,-0.12398314,174.58986)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3112"
+       id="pattern3116"
+       patternTransform="translate(7.6300586e-6,97.715436)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Wavy"
+       id="pattern3112"
+       patternTransform="translate(-0.35231018,49.308713)" />
+    <pattern
+       inkscape:stockid="Wavy"
+       id="Wavy"
+       height="5.1805778"
+       width="30.066020"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <path
+         id="path2205"
+         d="M 7.597,0.061 C 5.079,-0.187 2.656,0.302 -0.01,1.788 L -0.01,3.061 C 2.773,1.431 5.173,1.052 7.472,1.280 C 9.770,1.508 11.969,2.361 14.253,3.218 C 18.820,4.931 23.804,6.676 30.066,3.061 L 30.062,1.788 C 23.622,5.497 19.246,3.770 14.691,2.061 C 12.413,1.207 10.115,0.311 7.597,0.061 z "
+         style="fill:black;stroke:none;" />
+    </pattern>
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle1662"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1664"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1666"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle1668"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.96"
+     inkscape:cx="-251.06732"
+     inkscape:cy="-136.15008"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="957"
+     inkscape:window-height="1017"
+     inkscape:window-x="955"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#0a2332;fill-opacity:1;stroke:none;stroke-width:1.83223271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="270.93332"
+       height="152.39999"
+       x="-204.86313"
+       y="86.391663" />
+    <rect
+       y="86.391663"
+       x="-204.86313"
+       height="152.39999"
+       width="270.93332"
+       id="rect859"
+       style="opacity:0.128;fill:url(#Packedcircles);fill-opacity:1.0;stroke:none;stroke-width:1.83223271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#decdba;fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect836"
+       width="167.47984"
+       height="42.994793"
+       x="-111.57349"
+       y="91.045921" />
+    <rect
+       y="91.045921"
+       x="-111.57349"
+       height="42.994793"
+       width="167.47984"
+       id="rect3096"
+       style="opacity:0.022;fill:url(#Wavy);fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#0071bc;fill-opacity:1;stroke:none;stroke-width:2.83690476;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect2972"
+       width="167.47984"
+       height="9.4601974"
+       x="-111.57349"
+       y="91.045921" />
+    <rect
+       y="140.35463"
+       x="-111.9258"
+       height="42.994793"
+       width="167.47984"
+       id="rect838"
+       style="opacity:1;fill:#d6deba;fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.022;fill:url(#pattern3112);fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3110"
+       width="167.47984"
+       height="42.994793"
+       x="-111.9258"
+       y="140.35463" />
+    <rect
+       style="opacity:1;fill:#debaba;fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect840"
+       width="167.47984"
+       height="42.994793"
+       x="-111.57348"
+       y="188.76135" />
+    <rect
+       y="188.76135"
+       x="-111.57348"
+       height="42.994793"
+       width="167.47984"
+       id="rect3114"
+       style="opacity:0.022;fill:url(#pattern3116);fill-opacity:1;stroke:none;stroke-width:4.65479755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.46149063px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18653725"
+       x="-108.06561"
+       y="97.565254"
+       id="text844"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="-108.06561"
+         y="97.565254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.18653725">Депозит</tspan></text>
+    <text
+       id="text870"
+       y="117.58814"
+       x="-200.01704"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5714736px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13928683"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.13928683"
+         y="117.58814"
+         x="-200.01704"
+         id="tspan868"
+         sodipodi:role="line">Наличные: 1000 Р</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03537083px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20088427"
+       x="-200.46339"
+       y="96.964516"
+       id="text909"><tspan
+         sodipodi:role="line"
+         id="tspan907"
+         x="-200.46339"
+         y="96.964516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.20088427">1 из 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.5714736px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13928683"
+       x="-200.01704"
+       y="124.99004"
+       id="text913"><tspan
+         sodipodi:role="line"
+         id="tspan911"
+         x="-200.01704"
+         y="124.99004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.13928683">Доход: 1,234,000 Р</tspan></text>
+    <rect
+       y="140.35463"
+       x="-111.9258"
+       height="9.4601974"
+       width="167.47984"
+       id="rect2978"
+       style="opacity:1;fill:#bc8a00;fill-opacity:1;stroke:none;stroke-width:2.83690476;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <rect
+       style="opacity:1;fill:#bc1f00;fill-opacity:1;stroke:none;stroke-width:2.83690476;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect2980"
+       width="167.47984"
+       height="9.4601974"
+       x="-111.57348"
+       y="188.76135" />
+    <text
+       id="text2986"
+       y="147.31383"
+       x="-108.06561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.46149063px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18653725"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.18653725"
+         y="147.31383"
+         x="-108.06561"
+         sodipodi:role="line"
+         id="tspan2988">Облигации</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.46149063px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18653725"
+       x="-108.06561"
+       y="195.7868"
+       id="text2994"><tspan
+         id="tspan2992"
+         sodipodi:role="line"
+         x="-108.06561"
+         y="195.7868"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.18653725">Акции</tspan></text>
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:3.0289607;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect2996"
+       width="27.881073"
+       height="7.2284255"
+       x="-55.063587"
+       y="123.94299"
+       ry="2.0652647" />
+    <text
+       id="text3000"
+       y="129.43802"
+       x="-49.09206"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04025412px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15100634"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.15100634"
+         y="129.43802"
+         x="-49.09206"
+         id="tspan2998"
+         sodipodi:role="line">Внести</tspan></text>
+    <rect
+       ry="2.0652647"
+       y="123.94299"
+       x="-23.396198"
+       height="7.2284255"
+       width="27.881073"
+       id="rect3002"
+       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:none;stroke-width:3.0289607;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04025412px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15100634"
+       x="-17.424673"
+       y="129.43802"
+       id="text3006"><tspan
+         sodipodi:role="line"
+         id="tspan3004"
+         x="-17.424673"
+         y="129.43802"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.15100634">Изъять</tspan></text>
+    <text
+       id="text3010"
+       y="117.34865"
+       x="-36.946178"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108"
+         y="117.34865"
+         x="-36.946178"
+         id="tspan3008"
+         sodipodi:role="line">Доход: 4,230 Р</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       x="-37.092335"
+       y="106.86526"
+       id="text3014"><tspan
+         sodipodi:role="line"
+         id="tspan3012"
+         x="-37.092335"
+         y="106.86526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108">Процент: 7%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       x="-36.946178"
+       y="112.24623"
+       id="text3018"><tspan
+         sodipodi:role="line"
+         id="tspan3016"
+         x="-36.946178"
+         y="112.24623"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108">Внесено: 234,000 Р</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       x="-36.946178"
+       y="166.67203"
+       id="text3022"><tspan
+         sodipodi:role="line"
+         id="tspan3020"
+         x="-36.946178"
+         y="166.67203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108">Доход: 4,230 Р</tspan></text>
+    <text
+       id="text3026"
+       y="156.18863"
+       x="-37.092335"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108"
+         y="156.18863"
+         x="-37.092335"
+         id="tspan3024"
+         sodipodi:role="line">Процент: 7%</tspan></text>
+    <text
+       id="text3030"
+       y="161.56961"
+       x="-36.946178"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108"
+         y="161.56961"
+         x="-36.946178"
+         id="tspan3028"
+         sodipodi:role="line">Внесено: 234,000 Р</tspan></text>
+    <rect
+       ry="2.0652647"
+       y="172.84117"
+       x="-55.063587"
+       height="7.2284255"
+       width="27.881073"
+       id="rect3032"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:3.0289607;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04025412px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15100634"
+       x="-49.09206"
+       y="178.3362"
+       id="text3036"><tspan
+         sodipodi:role="line"
+         id="tspan3034"
+         x="-49.09206"
+         y="178.3362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.15100634">Внести</tspan></text>
+    <rect
+       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:none;stroke-width:3.0289607;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect3038"
+       width="27.881073"
+       height="7.2284255"
+       x="-23.396198"
+       y="172.84117"
+       ry="2.0652647" />
+    <text
+       id="text3042"
+       y="178.3362"
+       x="-17.424673"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04025412px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15100634"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.15100634"
+         y="178.3362"
+         x="-17.424673"
+         id="tspan3040"
+         sodipodi:role="line">Изъять</tspan></text>
+    <text
+       id="text3070"
+       y="214.082"
+       x="-36.946178"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108"
+         y="214.082"
+         x="-36.946178"
+         id="tspan3068"
+         sodipodi:role="line">Доход: 4,230 Р</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       x="-37.092335"
+       y="203.5986"
+       id="text3074"><tspan
+         sodipodi:role="line"
+         id="tspan3072"
+         x="-37.092335"
+         y="203.5986"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108">Процент: 7%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.35604334px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.10890108"
+       x="-36.946178"
+       y="208.97958"
+       id="text3078"><tspan
+         sodipodi:role="line"
+         id="tspan3076"
+         x="-36.946178"
+         y="208.97958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#404040;stroke-width:0.10890108">Внесено: 234,000 Р</tspan></text>
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:3.0289607;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect3080"
+       width="27.881073"
+       height="7.2284255"
+       x="-55.063587"
+       y="220.25114"
+       ry="2.0652647" />
+    <text
+       id="text3084"
+       y="225.74617"
+       x="-49.09206"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04025412px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15100634"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.15100634"
+         y="225.74617"
+         x="-49.09206"
+         id="tspan3082"
+         sodipodi:role="line">Внести</tspan></text>
+    <rect
+       ry="2.0652647"
+       y="220.25114"
+       x="-23.396198"
+       height="7.2284255"
+       width="27.881073"
+       id="rect3086"
+       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:none;stroke-width:3.0289607;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04025412px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15100634"
+       x="-17.424673"
+       y="225.74617"
+       id="text3090"><tspan
+         sodipodi:role="line"
+         id="tspan3088"
+         x="-17.424673"
+         y="225.74617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.15100634">Изъять</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56461191;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3092"
+       width="1.4263961"
+       height="141.46658"
+       x="59.555294"
+       y="90.86805"
+       ry="0.92579883" />
+    <rect
+       ry="0.70338213"
+       y="186.75099"
+       x="59.555294"
+       height="44.520634"
+       width="1.4263961"
+       id="rect3094"
+       style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:none;stroke-width:0.3167406;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#0a2332;fill-opacity:1;stroke:none;stroke-width:1.83223271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3"
+       width="270.93329"
+       height="152.39999"
+       x="-204.98711"
+       y="260.98154" />
+    <rect
+       style="opacity:0.128;fill:url(#pattern1840);fill-opacity:1;stroke:none;stroke-width:1.83223271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1838"
+       width="270.93332"
+       height="152.39999"
+       x="-204.98711"
+       y="260.98154" />
+    <rect
+       style="opacity:1;fill:#06141c;fill-opacity:1;stroke:#101010;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect881"
+       width="50.27264"
+       height="3.650784"
+       x="-112.47986"
+       y="266.28613"
+       ry="1.4603136" />
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect883"
+       width="3.5599978"
+       height="1.583629"
+       x="-110.95539"
+       y="267.25372"
+       ry="0.79181451" />
+    <rect
+       ry="0.79181451"
+       y="267.25372"
+       x="-107.09872"
+       height="1.583629"
+       width="3.5599978"
+       id="rect885"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect887"
+       width="3.5599978"
+       height="1.583629"
+       x="-103.24207"
+       y="267.25372"
+       ry="0.79181451" />
+    <rect
+       ry="0.79181451"
+       y="267.25372"
+       x="-99.187622"
+       height="1.583629"
+       width="3.5599978"
+       id="rect889"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect891"
+       width="3.5599978"
+       height="1.583629"
+       x="-95.232079"
+       y="267.25372"
+       ry="0.79181451" />
+    <rect
+       ry="0.79181451"
+       y="267.25372"
+       x="-91.177635"
+       height="1.583629"
+       width="3.5599978"
+       id="rect893"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect895"
+       width="3.5599978"
+       height="1.583629"
+       x="-87.222076"
+       y="267.25372"
+       ry="0.79181451" />
+    <rect
+       ry="0.79181451"
+       y="267.25372"
+       x="-83.464302"
+       height="1.583629"
+       width="3.5599978"
+       id="rect897"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect899"
+       width="3.5599978"
+       height="1.583629"
+       x="-79.512802"
+       y="267.25372"
+       ry="0.79181451" />
+    <rect
+       ry="0.79181451"
+       y="267.25372"
+       x="-75.429581"
+       height="1.583629"
+       width="3.5599978"
+       id="rect901"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:1.13985908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:0.92206633;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect903"
+       width="2.3295484"
+       height="1.583629"
+       x="-71.214653"
+       y="267.25372"
+       ry="0.79181451" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1637"
+       cx="-100.53594"
+       cy="391.50101"
+       r="8.8229322" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-103.47373"
+       y="405.94507"
+       id="text1641"><tspan
+         sodipodi:role="line"
+         id="tspan1639"
+         x="-103.47373"
+         y="405.94507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">БАНК</tspan></text>
+    <circle
+       r="8.8229322"
+       cy="391.50101"
+       cx="-75.947754"
+       id="circle1643"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1647"
+       y="405.94507"
+       x="-80.357079"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="405.94507"
+         x="-80.357079"
+         id="tspan1645"
+         sodipodi:role="line">БИРЖА</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1649"
+       cx="-49.979828"
+       cy="391.50101"
+       r="8.8229322" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-60.408684"
+       y="405.94507"
+       id="text1653"><tspan
+         sodipodi:role="line"
+         id="tspan1651"
+         x="-60.408684"
+         y="405.94507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">НЕДВИЖИМОСТЬ</tspan></text>
+    <circle
+       r="8.8229322"
+       cy="391.50101"
+       cx="-125.33672"
+       id="circle1655"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1659"
+       y="405.94507"
+       x="-131.24751"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="405.94507"
+         x="-131.24751"
+         id="tspan1657"
+         sodipodi:role="line">СВОДКА</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11512518;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1661"
+       width="167.03136"
+       height="96.50074"
+       x="-161.61945"
+       y="278.74646"
+       ry="1.5009637" />
+    <rect
+       style="opacity:1;fill:#1b7e2f;fill-opacity:1;stroke:none;stroke-width:1.0686177;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1669"
+       width="167.03136"
+       height="6.9856844"
+       x="-161.61945"
+       y="278.74646"
+       ry="5.6843419e-14" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58738351;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1663"
+       cx="2.1337123"
+       cy="282.21445"
+       r="2.4351277" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-159.24849"
+       y="282.90079"
+       id="text1667"><tspan
+         sodipodi:role="line"
+         id="tspan1665"
+         x="-159.24849"
+         y="282.90079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">БИРЖА</tspan></text>
+    <rect
+       style="opacity:1;fill:#06141c;fill-opacity:1;stroke:#101010;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1842"
+       width="35.079124"
+       height="7.0158248"
+       x="25.82205"
+       y="264.47208"
+       ry="1.4882053" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402;"
+       x="43.787842"
+       y="269.03018"
+       id="text1675"><tspan
+         sodipodi:role="line"
+         id="tspan1673"
+         x="43.787842"
+         y="269.03018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402;">100,000,000</tspan></text>
+    <text
+       id="text1679"
+       y="269.03018"
+       x="29.482943"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402;"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.08433402;-inkscape-font-specification:'Ubuntu Condensed, ';font-family:'Ubuntu Condensed';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="269.03018"
+         x="29.482943"
+         id="tspan1677"
+         sodipodi:role="line">Р</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="15.026087"
+       y="268.81757"
+       id="text1687"><tspan
+         sodipodi:role="line"
+         id="tspan1685"
+         x="15.026087"
+         y="268.81757"
+         style="fill:#ffffff;stroke-width:0.08433402;-inkscape-font-specification:'Ubuntu Condensed, ';font-family:'Ubuntu Condensed';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Доход</tspan></text>
+    <rect
+       ry="1.4882053"
+       y="264.47208"
+       x="-30.401909"
+       height="7.0158248"
+       width="35.079124"
+       id="rect1689"
+       style="opacity:1;fill:#06141c;fill-opacity:1;stroke:#101010;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1693"
+       y="269.03018"
+       x="-4.1551394"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="269.03018"
+         x="-4.1551394"
+         id="tspan1691"
+         sodipodi:role="line">5000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402;"
+       x="-28.131865"
+       y="269.03018"
+       id="text1697"><tspan
+         sodipodi:role="line"
+         id="tspan1695"
+         x="-28.131865"
+         y="269.03018"
+         style="fill:#ffffff;stroke-width:0.08433402;-inkscape-font-specification:'Ubuntu Condensed, ';font-family:'Ubuntu Condensed';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Р</tspan></text>
+    <text
+       id="text1701"
+       y="268.81757"
+       x="-50.242348"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.08433402;-inkscape-font-specification:'Ubuntu Condensed, ';font-family:'Ubuntu Condensed';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="268.81757"
+         x="-50.242348"
+         id="tspan1699"
+         sodipodi:role="line">Наличные</tspan></text>
+    <circle
+       r="8.8229322"
+       cy="391.50101"
+       cx="-24.234348"
+       id="circle1725"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1729"
+       y="405.94507"
+       x="-32.797592"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="405.94507"
+         x="-32.797592"
+         id="tspan1727"
+         sodipodi:role="line">КРАУДЛЕНДИНГ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-125.61317"
+       y="268.81757"
+       id="text1733"><tspan
+         sodipodi:role="line"
+         id="tspan1731"
+         x="-125.61317"
+         y="268.81757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">1 из 20</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82365763;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1760"
+       width="31.552534"
+       height="46.951042"
+       x="-140.12976"
+       y="307.3844"
+       ry="1.4952534" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.84704876px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22117619"
+       x="-128.37613"
+       y="326.75089"
+       id="text1768"><tspan
+         sodipodi:role="line"
+         id="tspan1766"
+         x="-128.37613"
+         y="326.75089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.22117619">8%</tspan></text>
+    <rect
+       ry="1.4952534"
+       y="307.3844"
+       x="-94.423073"
+       height="46.951042"
+       width="31.552534"
+       id="rect1798"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82365763;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1772"
+       y="326.75089"
+       x="-84.501556"
+       style="font-style:normal;font-weight:normal;font-size:8.84704876px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22117619"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.22117619"
+         y="326.75089"
+         x="-84.501556"
+         id="tspan1770"
+         sodipodi:role="line">10%</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82365763;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1812"
+       width="31.552534"
+       height="46.951042"
+       x="-49.44965"
+       y="307.3844"
+       ry="1.4952534" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.84704876px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22117619"
+       x="-38.963875"
+       y="326.75089"
+       id="text1776"><tspan
+         sodipodi:role="line"
+         id="tspan1774"
+         x="-38.963875"
+         y="326.75089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.22117619">12%</tspan></text>
+    <rect
+       ry="1.2618492"
+       y="340.74359"
+       x="-138.2189"
+       height="4.4164715"
+       width="27.30583"
+       id="rect1778"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:2.34305477;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <rect
+       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:none;stroke-width:2.34305477;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect1784"
+       width="27.30583"
+       height="4.4164715"
+       x="-138.29274"
+       y="346.71063"
+       ry="1.2618492" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-129.67999"
+       y="343.94873"
+       id="text1792"><tspan
+         sodipodi:role="line"
+         id="tspan1790"
+         x="-129.67999"
+         y="343.94873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">ВНЕСТИ</tspan></text>
+    <text
+       id="text1796"
+       y="350.05923"
+       x="-129.67999"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="350.05923"
+         x="-129.67999"
+         id="tspan1794"
+         sodipodi:role="line">ИЗЪЯТЬ</tspan></text>
+    <rect
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:2.34305477;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect1800"
+       width="27.30583"
+       height="4.4164715"
+       x="-92.75663"
+       y="340.74359"
+       ry="1.2618492" />
+    <rect
+       ry="1.2618492"
+       y="346.71063"
+       x="-92.830467"
+       height="4.4164715"
+       width="27.30583"
+       id="rect1802"
+       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:none;stroke-width:2.34305477;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <text
+       id="text1806"
+       y="343.94873"
+       x="-84.217728"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="343.94873"
+         x="-84.217728"
+         id="tspan1804"
+         sodipodi:role="line">ВНЕСТИ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-84.217728"
+       y="350.05923"
+       id="text1810"><tspan
+         sodipodi:role="line"
+         id="tspan1808"
+         x="-84.217728"
+         y="350.05923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">ИЗЪЯТЬ</tspan></text>
+    <rect
+       ry="1.2618492"
+       y="340.74359"
+       x="-47.538788"
+       height="4.4164715"
+       width="27.30583"
+       id="rect1814"
+       style="opacity:1;fill:#008504;fill-opacity:1;stroke:none;stroke-width:2.34305477;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333" />
+    <rect
+       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:none;stroke-width:2.34305477;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.18333333"
+       id="rect1816"
+       width="27.30583"
+       height="4.4164715"
+       x="-47.612625"
+       y="346.71063"
+       ry="1.2618492" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-38.999886"
+       y="343.94873"
+       id="text1820"><tspan
+         sodipodi:role="line"
+         id="tspan1818"
+         x="-38.999886"
+         y="343.94873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402">ВНЕСТИ</tspan></text>
+    <text
+       id="text1824"
+       y="350.05923"
+       x="-38.999886"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#ffffff;stroke-width:0.08433402"
+         y="350.05923"
+         x="-38.999886"
+         id="tspan1822"
+         sodipodi:role="line">ИЗЪЯТЬ</tspan></text>
+    <text
+       id="text1828"
+       y="303.86374"
+       x="-135.05725"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;stroke-width:0.08433402"
+         y="303.86374"
+         x="-135.05725"
+         id="tspan1826"
+         sodipodi:role="line">ЗЕЛЕНЫЙ БАНК</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       x="-88.617302"
+       y="303.86374"
+       id="text1832"><tspan
+         sodipodi:role="line"
+         id="tspan1830"
+         x="-88.617302"
+         y="303.86374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;stroke-width:0.08433402">ЖЕЛТЫЙ БАНК</tspan></text>
+    <text
+       id="text1836"
+       y="303.86374"
+       x="-43.888302"
+       style="font-style:normal;font-weight:normal;font-size:3.37336135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08433402"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;stroke-width:0.08433402"
+         y="303.86374"
+         x="-43.888302"
+         id="tspan1834"
+         sodipodi:role="line">КОЛХОЗ БАНК</tspan></text>
+  </g>
+</svg>
