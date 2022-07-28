@@ -887,7 +887,7 @@ ApplicationMain.main = function() {
 ApplicationMain.create = function(config) {
 	var app = new openfl_display_Application();
 	ManifestResources.init(config);
-	app.meta.h["build"] = "89";
+	app.meta.h["build"] = "2";
 	app.meta.h["company"] = "My Company";
 	app.meta.h["file"] = "MyApplication";
 	app.meta.h["name"] = "HelloWorld";
@@ -953,7 +953,6 @@ ApplicationMain.start = function(stage) {
 			stage.dispatchEvent(new openfl_events_FullScreenEvent("fullScreen",false,false,true,true));
 		}
 	} catch( _g ) {
-		haxe_NativeStackTrace.lastError = _g;
 		var e = haxe_Exception.caught(_g).unwrap();
 		stage.__handleError(e);
 	}
@@ -37593,7 +37592,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 776980;
+	this.version = 165548;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
